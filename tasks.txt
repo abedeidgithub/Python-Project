@@ -1,0 +1,6 @@
+Login                    == >   بودي
+db2 , update_Males_sal   ==>    شوقي  و  محمود
+Python ,select_meals     ==>    سعد و عبدالمنعم و عابد
+insert_user              ==>    احمد عوض وعبدالمنعم
+Home,Project Design      ==>    سعد
+update,select_TotalPr ,delete   ==>     عابد واحمد عوض
